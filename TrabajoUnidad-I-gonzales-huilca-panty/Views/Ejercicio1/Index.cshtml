@@ -1,0 +1,182 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+<style type="text/css">
+
+    div#tablapacila {
+        width: 100px;
+        position: relative;
+        float: left;
+        height: auto;
+    }
+
+    div#tabla_uno {
+        width: 300px;
+        position: relative;
+        float: left;
+        height: auto;
+        margin-right: 10px;
+        margin-top: 7%;
+        margin-left: 2%;
+    }
+
+    div#tabla_centro {
+        width: 450px;
+        position: relative;
+        float: left;
+        height: auto;
+        margin-top:3%;
+    }
+
+    div#tabla_dos {
+        width: 300px;
+        position: relative;
+        float: left;
+        height: auto;
+    }
+
+    div#botones {
+        width: 300px;
+        position: relative;
+        height: auto;
+    }
+
+    .selected:hover {
+        background-color: #0585C0;
+        color: white;
+    }
+
+    .seleccionada {
+        background-color: #0585C0;
+        color: white;
+    }
+</style>
+<body>
+    <div>
+
+        <div id="tabla_uno">
+            @Html.Partial("_partial")
+        </div>
+
+        <div id="tabla_centro">
+            <div style="margin-left:35%;margin-top:10%">
+
+                <h1>Ejercicio  1</h1>
+                <br />
+                <h1 id="hms" style="font-size:70px;margin-left:5%">  </h1>
+                <br />
+                <div class="boton start"></div>
+                <div class="boton stop"></div>
+                <div class="boton reiniciar"></div>
+
+
+            </div>
+            <div style="margin-top:5%">
+                <div class="row">
+                    <div class="col" style="margin-right:20%">
+                        <button id="btnplay" style="width:180px;margin-left:5%;margin-bottom:2px;" class="btn btn-success  btn-lg"> Iniciar</button> <br />
+                    </div>
+                    <br />
+
+                    <div class="col" style="margin-right:20%">
+                        <button id="btnpause" style="width:180px;margin-left:5% ;margin-bottom:2px;" class="btn btn-primary  btn-lg "> Pausar</button>
+                    </div>
+                    <div class="col">
+                        <button id="btnreiniciar" style="width:180px;margin-left:5%;margin-bottom:2px;" class="btn btn-danger  btn-lg "> Reiniciar</button>
+                    </div>
+                    <br />
+                    <br /><br />
+                    <button type="button" id="btnstop">    stop</button>
+
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+
+
+</body>
+</html>
+<script src="~/Scripts/jquery-3.5.1.js"></script>
+
+<script>
+
+    $(document).ready(function () {
+        var h = 0;
+        var m = 0;
+        var s = 0;
+        var mi = 0;
+        $("#txt1").val("asdfsd");
+
+        $("#hms").html("00:00:00");
+
+        $('#btnplay').click(function () {
+            cronometrar();
+        });
+
+        $("#btnpause").click(function () {
+            parar();
+        });
+        $("#btnstop").click(function () {
+            stop();
+        });
+
+        $("#btnreiniciar").click(function () {
+            reiniciar();
+        });
+
+        function cronometrar() {
+            iniciar();
+            id=  setInterval(iniciar, 15);
+
+        }
+        function iniciar() {
+          //  id = setInterval(iniciar, 1000);
+            var hAux, mAux, sAux,miAux;
+           // s++;
+            mi++;
+            if (mi > 100) {s++; mi = 0; }
+            if (s > 59) { m++; s = 0; }
+            if (m > 59) { h++; m = 0; }
+            if (h > 24) { h = 0; }
+            if (mi < 10) { miAux = "0" + mi; } else { miAux = mi; }
+            if (s < 10) { sAux = "0" + s; } else { sAux = s; }
+            if (m < 10) { mAux = "0" + m; } else { mAux = m; }
+            if (h < 10) { hAux = "0" + h; } else { hAux = h; }
+            document.getElementById("hms").innerHTML = hAux + ":" + mAux + ":" + sAux + ":" + miAux;
+
+        }
+        function parar() {
+            clearInterval(id);
+        }
+
+        function reiniciar() {
+            clearInterval(id);
+            document.getElementById("hms").innerHTML = "00:00:00";
+            h = 0; m = 0; s = 0;
+            cronometrar();
+        }
+        function stop() {
+            clearInterval(id);
+            document.getElementById("hms").innerHTML = "00:00:00";
+            h = 0; m = 0; s = 0;
+        }
+    });
+
+
+
+
+
+</script>

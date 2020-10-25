@@ -1,0 +1,101 @@
+﻿@model IEnumerable<TrabajoUnidad_I_gonzales_huilca_panty.Models.ClsEjercicio3>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Visualizar</title>
+</head>
+
+
+<style type="text/css">
+    div#tablapacila {
+        width: 100px;
+        position: relative;
+        float: left;
+        height: auto;
+    }
+
+    div#tabla_uno {
+        width: 300px;
+        position: relative;
+        float: left;
+        height: auto;
+        margin-right: 10px;
+        margin-left: 2%;
+        margin-top: 6%;
+    }
+
+    div#tabla_centro {
+        width: 350px;
+        position: relative;
+        float: left;
+        height: auto;
+        margin-top: 6%;
+        margin-left:5%;
+    }
+
+    div#tabla_dos {
+        width: 300px;
+        position: relative;
+        float: left;
+        height: auto;
+    }
+
+    .selected:hover {
+        background-color: #0585C0;
+        color: white;
+    }
+
+    .seleccionada {
+        background-color: #0585C0;
+        color: white;
+    }
+</style>
+<body>
+    <div>
+
+        <div id="tabla_uno">
+            @Html.Partial("_partial2")
+
+        </div>
+
+        <div id="tabla_centro">
+
+
+            <div class="card bg-primary text-white">
+                <div class="card-body">
+                    @Html.Label("Palabras Concurrentes")
+
+                    @*Html.TextAreaFor(model => model.palabra, 5, 40, null)*@
+                    <br />
+                </div>
+            </div>
+
+            <table border="1" class="table table-bordered" width="300" cellspacing="1" cellpadding="1">
+                <tr>
+                    <th>Palabra</th>
+                    <th>Cantidad</th>
+                </tr>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.palabraClave)</td>
+                        <td>@Html.DisplayFor(modelItem => item.contador)</td>
+
+                    </tr>
+                }
+            </table>
+        </div>
+
+    </div>
+</body>
+</html>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>

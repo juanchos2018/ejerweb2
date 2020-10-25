@@ -1,0 +1,113 @@
+﻿@model TrabajoUnidad_I_gonzales_huilca_panty.Models.ClsEjercicio5
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Visualizar</title>
+</head>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+<style type="text/css">
+    div#tablapacila {
+        width: 100px;
+        position: relative;
+        float: left;
+        height: auto;
+    }
+
+    div#tabla_uno {
+        width: 300px;
+        position: relative;
+        float: left;
+        height: auto;
+        margin-right: 10px;
+        margin-left: 2%;
+        margin-top: 6%;
+    }
+
+    div#tabla_centro {
+        width: 50%;
+        position: relative;
+        float: left;
+        height: auto;
+        margin-top: 4%;
+    }
+
+    div#tabla_dos {
+        width: 300px;
+        position: relative;
+        float: left;
+        height: auto;
+    }
+
+    .selected:hover {
+        background-color: #0585C0;
+        color: white;
+    }
+
+    .seleccionada {
+        background-color: #0585C0;
+        color: white;
+    }
+</style>
+<body>
+
+    <div id="tabla_uno">
+        @Html.Partial("_partial3")
+    </div>
+    <div id="tabla_centro">
+        <label>Monto : </label>@Model.prestamo<br />
+        <label>Tasa de Interes : </label>@Model.TasaInteres<br />
+        <label>Numero de Periodos : </label>@Model.CantidadMes<br />
+        <label>Cuota Fija : </label>@Model.CuotaFija<br />
+
+        <br />
+        <div>
+            <table border="1" class="table table-bordered" >
+                <tr>
+                    <th>Nro Periodos</th>
+                    <th>Cuota Fija</th>
+                    <th>Interes</th>
+                    <th>Abono a Capital</th>
+                    <th>Saldo Final</th>
+                </tr>
+                @{
+                    int Plazo = Model.CantidadMes;
+                    double Capital = Model.prestamo;
+                    double Interes = (Model.TasaInteres) / 100;
+
+                    double CuotaFija = Model.CuotaFija;
+
+                    double InteresMensual = 0;
+                    double AbonoCapital = 0;
+
+                    int i = 0;
+                    for (i = 1; i <= Plazo; i++)
+                    {
+                        
+                        InteresMensual = Math.Round(Interes * Capital, 2);
+                        Capital = Math.Round(Capital - CuotaFija + InteresMensual, 2);
+                        //AmortizacionTotal += Math.Round((CuotaFija - InteresMensual), 2);
+                        AbonoCapital = Math.Round(CuotaFija - InteresMensual, 2);
+                        <tbody>
+                            <tr>
+                                <td>@i</td>
+                                <td>@Model.CuotaFija</td>
+                                <td>@InteresMensual</td>
+                                <td>@AbonoCapital</td>
+                                <td>@Math.Round(Capital, 0) </td>
+                            </tr>
+                        </tbody>
+                    }
+                }
+            </table>
+        </div>
+    </div>
+
+</body>
+</html>

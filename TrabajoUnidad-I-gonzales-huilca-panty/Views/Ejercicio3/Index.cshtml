@@ -1,0 +1,88 @@
+﻿@model TrabajoUnidad_I_gonzales_huilca_panty.Models.ClsEjercicio3
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+<style type="text/css">
+    div#tablapacila {
+        width: 100px;
+        position: relative;
+        float: left;
+        height: auto;
+    }
+
+    div#tabla_uno {
+        width: 300px;
+        position: relative;
+        float: left;
+        height: auto;
+        margin-right: 10px;
+        margin-left: 2%;
+        margin-top:6%;
+    }
+
+    div#tabla_centro {
+        width: 200px;
+        position: relative;
+        float: left;
+        height: auto;
+        margin-top:4%;
+    }
+
+    div#tabla_dos {
+        width: 300px;
+        position: relative;
+        float: left;
+        height: auto;
+    }
+
+    .selected:hover {
+        background-color: #0585C0;
+        color: white;
+    }
+
+    .seleccionada {
+        background-color: #0585C0;
+        color: white;
+    }
+</style>
+<body>
+    <div>
+
+        <div id="tabla_uno">
+            @Html.Partial("_partial2")
+        </div>
+
+
+        <div id="tabla_centro">
+            <h2>Ocurrencia de palabras</h2>
+            @using (Html.BeginForm("Visualizar", "Ejercicio3", FormMethod.Post))
+            {
+        <div>
+            <label>Palabras</label>
+            <br /><br />
+            @*Html.TextBoxFor(model => model.palabra)*@
+            @Html.TextAreaFor(model => model.palabra, 5, 40, null)
+            <br /><br />
+            <label>Texto</label>
+            <br /><br />
+            @Html.TextAreaFor(model => model.texto, 7, 70, null)
+            <br /><br />
+            <input type="submit" style="width:100%;" name="Buscar" class="btn btn-success" />
+        </div>
+            }
+
+
+        </div>
+
+    </div>
+</body>
+</html>

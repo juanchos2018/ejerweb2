@@ -1,0 +1,203 @@
+﻿@model TrabajoUnidad_I_gonzales_huilca_panty.Models.ClsProductosViewModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+
+
+<style type="text/css">
+    div#tablapacila {
+        width: 100px;
+        position: relative;
+        float: left;
+        height: auto;
+    }
+
+    div#tabla_uno {
+        width: 300px;
+        position: relative;
+        float: left;
+        height: auto;
+        margin-right: 10px;
+        margin-left: 15%;
+    }
+
+    div#tabla_centro {
+        width: 200px;
+        position: relative;
+        float: left;
+        height: auto;
+    }
+
+    div#tabla_dos {
+        width: 300px;
+        position: relative;
+        float: left;
+        height: auto;
+    }
+
+    .selected:hover {
+        background-color: #0585C0;
+        color: white;
+    }
+
+    .seleccionada {
+        background-color: #0585C0;
+        color: white;
+    }
+</style>
+<body>
+
+
+    <div class="@ViewBag.Estilo" role="alert"><b>@ViewBag.Mensaje </b> <br /> </div>
+    <!--
+    <div class="alert alert-success" role="alert">
+        This is a success alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
+    </div>
+         -->
+
+    <div style="margin-left:2%;margin-top:5%">
+        @using (Html.BeginForm("Envios", "Ejercicio2", FormMethod.Post))
+        {
+            <div id="tablapacila">
+                @Html.Partial("_partial1")
+            </div>
+
+
+
+            <div style="margin-left:30%; margin-bottom:2%">
+                Productos <input type="text" id="txt1" name="txt1" value="" />
+                <input type="submit" class="btn btn-success" id="btnform" name="btnform" style="width:90px;" value="Enviar" /> <br />
+
+            </div>
+
+
+            <div id="tabla_uno">
+                <table id="table" class="table table-bordered" width="300" cellspacing="1" cellpadding="1">
+                    <tr>
+                        <th> LISTA  1</th>
+                    </tr>
+
+                    @if (Model != null && Model.Productos1 != null)
+                    {
+                        int cont = 1;
+                        foreach (var item in Model.Productos1)
+                        {
+                            <tr class="selected" id=fila@(cont++) onclick="seleccionar(this.cont)">
+                                <td>
+                                    @Html.DisplayFor(modelitem => item.nombre_producto_1)
+                                </td>
+                            </tr>
+
+                        }
+                    }
+
+
+                </table>
+
+            </div>
+            <div id="tabla_centro">
+                <input type="submit" id="btnform" class="btn btn-primary" name="btnform" style="        width: 200px;
+        margin-bottom: 5px
+" ; value="PASAR_UNO" /> <br />
+                <input type="submit" id="btnform" class="btn btn-primary" name="btnform" style="width:200px; margin-bottom:5px" value="Pasar_Todos" /> <br />
+                <input type="submit" id="btnform" class="btn btn-primary" name="btnform" style="width:200px; margin-bottom:5px" value="Pasar_Seleccionados" /> <br />
+                <input type="submit" id="btnform" class="btn btn-warning" name="btnform" style="width:200px; margin-bottom:5px" value="Retirar_Uno" /> <br />
+                <input type="submit" id="btnform" class="btn btn-warning" name="btnform" style="width:200px; margin-bottom:5px" value="Retirar_Todos" /> <br />
+                <input type="submit" id="btnform" class="btn btn-warning" name="btnform" style="width:200px; margin-bottom:5px" value="Retirar_Selecionados" /> <br />
+                <input type="submit" id="btnform" class="btn btn-danger" name="btnform" style="width:200px; margin-bottom:5px" value="Limpiar" /> <br />
+
+            </div>
+
+            <div id="tabla_dos" style="margin-left:5%">
+                <table id="table1" class="table table-bordered" style="margin-left:5%" width="300" cellspacing="1" cellpadding="1">
+                    <tr>
+                        <th>LISTA 2</th>
+                    </tr>
+
+                    @if (Model != null && Model.Productos2 != null)
+                    {
+                        foreach (var item in Model.Productos2)
+                        {
+
+                            <tr class="selected">
+
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.nombre_producto_2)
+                                </td>
+                            </tr>
+                        }
+                    }
+
+                </table>
+            </div>
+
+
+            <div style="margin-left:15%;margin-top:30%">
+                <input type="text" id="txtdato" name="txtdato" value="" hidden="" /> <br />
+                <input type="text" id="txtseleccionados" name="txtseleccionados" value="" hidden="" /> <br />
+                <input type="text" id="txttipolista" name="txttipolista" value="" hidden="" /> <br />
+            </div>
+
+        }
+
+    </div>
+</body>
+</html>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+
+<script src="~/Scripts/jquery-3.5.1.js"></script>
+<script>
+
+    $(document).ready(function () {
+        var palabras = "";
+        var palabras2 = "";
+
+        $("#table tr").click(function () {
+            var lista = "lista1";
+            var value = $(this).find('td:first').html().trim();
+            console.log(value);
+            $("#txtdato").val($.trim(value));
+
+            palabras += value + ",";
+            $("#txtseleccionados").val(palabras);
+            $("#txttipolista").val(lista);
+
+        });
+
+        $("#table1 tr").click(function () {
+
+            var lista = "lista2";
+            var value = $(this).find('td:first').html().trim();
+            $("#txtdato").val($.trim(value));
+
+            palabras2 += value + ",";
+            $("#txtseleccionados").val(palabras2);
+            $("#txttipolista").val(lista);
+
+
+        });
+        var cont = 0;
+        var id_fila_selected = [];
+        function seleccionar(id_fila) {
+            cont++;
+            if ($('#' + id_fila).hasClass('seleccionada')) {
+                $('#' + id_fila).removeClass('seleccionada');
+            }
+            else {
+                $('#' + id_fila).addClass('seleccionada');
+            }
+            //2702id_fila_selected=id_fila;
+            id_fila_selected.push(id_fila);
+        }
+    })
+
+
+</script>

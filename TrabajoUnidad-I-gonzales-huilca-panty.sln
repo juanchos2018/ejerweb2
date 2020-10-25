@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrabajoUnidad-I-gonzales-huilca-panty", "TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty.csproj", "{173155E9-BAFB-4F03-B261-EB313F415890}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{173155E9-BAFB-4F03-B261-EB313F415890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{173155E9-BAFB-4F03-B261-EB313F415890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{173155E9-BAFB-4F03-B261-EB313F415890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{173155E9-BAFB-4F03-B261-EB313F415890}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EF26C33-CF80-4356-BB6E-BF4D0E633888}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,160 @@
+﻿@model IEnumerable<TrabajoUnidad_I_gonzales_huilca_panty.Models.ClsEjercicio4>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<link href="~/Scripts/bootstrap.css" rel="stylesheet" />
+<style type="text/css">
+    div#tabla_uno {
+        width: 300px;
+        position: relative;
+        float: left;
+        height: auto;
+        margin-right: 10px;
+        margin-top: 10px;
+    }
+
+    div#tabla_centro {
+        width: 200px;
+        position: relative;
+        float: left;
+        height: auto;
+    }
+</style>
+
+<body style="background-color:#FDE366">
+    <h1>Ejercicio N 4</h1>
+    <div style="margin-left:15%;">
+        @using (Html.BeginForm("Envios", "Ejercicio4", FormMethod.Post))
+        {
+
+            <div style="margin-left:15%; margin-bottom:2%;margin-top:20px;">
+                Ingresar Numero: <input type="number" id="txtnumero" name="txtnumero" value="" />
+                <input type="submit" class="btn btn-success" id="boton" name="boton" value="Generar" /><br /><br />
+                <input type="submit" id="boton" name="boton" class="btn btn-danger" style="width:150px; margin-bottom:5px" ; value="Limpiar" />
+                <input type="submit" id="boton" class="btn btn-danger" name="boton" style="width:150px; margin-bottom:5px" ; value="Salir" /> <br />
+
+
+            </div>
+
+
+            <div id="tabla_uno" class="table table-bordered">
+                <table id="table" width="200" cellspacing="1" cellpadding="1" border="1">
+                    <tr>
+                        <th> Id</th>
+                        <th> Numero</th>
+                    </tr>
+
+                    @foreach (var item in Model)
+                    {
+
+                        <tr>
+
+                            <td>
+                                @Html.DisplayFor(modelitem => item.Id)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelitem => item.Numero)
+                            </td>
+                        </tr>
+
+                    }
+
+                </table>
+
+            </div>
+            <div id="tabla_centro">
+
+                <div>
+
+
+                    <div class="form-check">
+                        <input class="form-check-input" type="radio" id="rbdmayor" name="operacion" value="mayor">
+
+                        <label for="gridRadios2" class="form-check-label">Numero mayor</label>
+                    </div>
+
+                    <div class="form-check">
+                        <input class="form-check-input" id="rbdmenor" type="radio" name="operacion" value="menor">
+
+                        <label for="gridRadios2" class="form-check-label">Numero menor</label>
+                    </div>
+                    <div class="form-check">
+                        <input class="form-check-input" type="radio" id="rbdsuma" name="operacion" value="suma">
+
+                        <label for="gridRadios2" class="form-check-label">Suma</label>
+                    </div>
+                    <div class="form-check">
+                        <input class="form-check-input" type="radio" id="rbdpromedio" name="operacion" value="promedio">
+
+                        <label for="gridRadios2" class="form-check-label">Promedio</label>
+                    </div>
+
+                </div>
+            </div>
+
+            <div id="tabla_dos" style="margin-left:27%;margin-top:25%">
+
+            </div>
+
+
+        }
+    </div>
+</body>
+</html>
+
+<script src="~/Scripts/jquery-3.0.0.js"></script>
+<script src="~/Scripts/jquery-3.5.1.js"></script>
+<script>
+
+    $(document).ready(function () {
+
+
+        $("#rbdmayor").click(function () {
+             var url = "@Url.Action("Mayor", "Ejercicio4")";
+               $("#tabla_dos").empty();
+
+            $.get(url).done(function (data) {
+                $("#tabla_dos").append(data);
+
+                 }).fail(manejarErrorAjax);
+        });
+
+        $("#rbdmenor").click(function () {
+             var url = "@Url.Action("Menor", "Ejercicio4")";
+               $("#tabla_dos").empty();
+
+            $.get(url).done(function (data) {
+                $("#tabla_dos").append(data);
+
+                 }).fail(manejarErrorAjax);
+        });
+         $("#rbdsuma").click(function () {
+             var url = "@Url.Action("Suma", "Ejercicio4")";
+               $("#tabla_dos").empty();
+
+            $.get(url).done(function (data) {
+                $("#tabla_dos").append(data);
+
+                 }).fail(manejarErrorAjax);
+         });
+           $("#rbdpromedio").click(function () {
+             var url = "@Url.Action("Promedio", "Ejercicio4")";
+               $("#tabla_dos").empty();
+
+            $.get(url).done(function (data) {
+                $("#tabla_dos").append(data);
+
+                 }).fail(manejarErrorAjax);
+        });
+    });
+
+
+</script>

@@ -1,0 +1,699 @@
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\TrabajoUnidad-I-gonzales-huilca-panty.dll.config
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\TrabajoUnidad-I-gonzales-huilca-panty.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\TrabajoUnidad-I-gonzales-huilca-panty.pdb
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csc.exe
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csc.exe.config
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csc.rsp
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csi.exe
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csi.exe.config
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csi.rsp
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.AppContext.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Collections.Immutable.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Console.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Globalization.Calendars.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.Compression.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.FileSystem.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Net.Http.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Net.Sockets.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Reflection.Metadata.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.ValueTuple.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.XPath.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\vbc.exe
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\vbc.exe.config
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\vbc.rsp
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\VBCSCompiler.exe
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\VBCSCompiler.exe.config
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\Microsoft.Web.Infrastructure.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Helpers.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Mvc.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Razor.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Deployment.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Razor.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Razor.xml
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.xml
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Deployment.xml
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Razor.xml
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Helpers.xml
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Mvc.xml
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Razor.resources.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Webpages.resources.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Helpers.resources.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Mvc.resources.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.csprojAssemblyReference.cache
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.csproj.CoreCompileInputs.cache
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.csproj.CopyComplete
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\TrabajoUnidad-I-gonzales-huilca-panty\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.pdb
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\TrabajoUnidad-I-gonzales-huilca-panty.dll.config
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\TrabajoUnidad-I-gonzales-huilca-panty.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\TrabajoUnidad-I-gonzales-huilca-panty.pdb
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Helpers.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Mvc.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Razor.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Deployment.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Razor.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Razor.xml
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.xml
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Deployment.xml
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Razor.xml
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Helpers.xml
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Mvc.xml
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Razor.resources.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Webpages.resources.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Helpers.resources.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Mvc.resources.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.csprojAssemblyReference.cache
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.csproj.CopyComplete
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.pdb
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csc.exe
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csc.exe.config
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csc.rsp
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csi.exe
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csi.exe.config
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csi.rsp
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.AppContext.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Console.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.Compression.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Net.Http.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Net.Sockets.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.ValueTuple.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\vbc.exe
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\vbc.exe.config
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\vbc.rsp
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\VBCSCompiler.exe
+C:\Users\AGONZALES\Source\Repos\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\VBCSCompiler.exe.config
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\TrabajoUnidad-I-gonzales-huilca-panty.dll.config
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\TrabajoUnidad-I-gonzales-huilca-panty.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\TrabajoUnidad-I-gonzales-huilca-panty.pdb
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csc.exe
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csc.exe.config
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csc.rsp
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csi.exe
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csi.exe.config
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csi.rsp
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.AppContext.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Collections.Immutable.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Console.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Globalization.Calendars.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.Compression.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.FileSystem.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Net.Http.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Net.Sockets.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Reflection.Metadata.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.ValueTuple.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.XPath.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\vbc.exe
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\vbc.exe.config
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\vbc.rsp
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\VBCSCompiler.exe
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\VBCSCompiler.exe.config
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\Microsoft.Web.Infrastructure.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Helpers.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Mvc.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Razor.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Deployment.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Razor.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Razor.xml
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.xml
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Deployment.xml
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Razor.xml
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Helpers.xml
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Mvc.xml
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Razor.resources.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Webpages.resources.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Helpers.resources.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Mvc.resources.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.csprojAssemblyReference.cache
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.csproj.CoreCompileInputs.cache
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.csproj.CopyComplete
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.dll
+D:\Disco local\disco\VIII-Ciclo\trabajo\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.pdb
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\TrabajoUnidad-I-gonzales-huilca-panty.dll.config
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\TrabajoUnidad-I-gonzales-huilca-panty.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\TrabajoUnidad-I-gonzales-huilca-panty.pdb
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csc.exe
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csc.exe.config
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csc.rsp
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csi.exe
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csi.exe.config
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csi.rsp
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.AppContext.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Collections.Immutable.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Console.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Globalization.Calendars.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.Compression.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.FileSystem.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Net.Http.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Net.Sockets.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Reflection.Metadata.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.ValueTuple.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.XPath.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\vbc.exe
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\vbc.exe.config
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\vbc.rsp
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\VBCSCompiler.exe
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\VBCSCompiler.exe.config
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\Microsoft.Web.Infrastructure.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Helpers.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Mvc.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Razor.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Deployment.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Razor.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Razor.xml
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.xml
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Deployment.xml
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Razor.xml
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Helpers.xml
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Mvc.xml
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Razor.resources.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Webpages.resources.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Helpers.resources.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Mvc.resources.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.csprojAssemblyReference.cache
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.csproj.CoreCompileInputs.cache
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.csproj.CopyComplete
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.dll
+D:\Disco local\disco\VIII-Ciclo\TrabajoUnidad-web-2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.pdb
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\TrabajoUnidad-I-gonzales-huilca-panty.dll.config
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\TrabajoUnidad-I-gonzales-huilca-panty.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\TrabajoUnidad-I-gonzales-huilca-panty.pdb
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csc.exe
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csc.exe.config
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csc.rsp
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csi.exe
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csi.exe.config
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csi.rsp
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.Managed.Core.targets
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.AppContext.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Collections.Immutable.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Console.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Globalization.Calendars.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.Compression.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.FileSystem.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Net.Http.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Net.Sockets.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Reflection.Metadata.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.ValueTuple.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.XmlDocument.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.XPath.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\vbc.exe
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\vbc.exe.config
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\vbc.rsp
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\VBCSCompiler.exe
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\VBCSCompiler.exe.config
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\Microsoft.Web.Infrastructure.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Helpers.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Mvc.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Razor.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Deployment.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Razor.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Razor.xml
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.xml
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Deployment.xml
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Razor.xml
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Helpers.xml
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Mvc.xml
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Razor.resources.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Webpages.resources.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Webpages.Deployment.resources.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Webpages.Razor.resources.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Helpers.resources.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Mvc.resources.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.csprojAssemblyReference.cache
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.csproj.CopyComplete
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.dll
+F:\2020 - I\DESARROLLO DE APLICACIONES WEB II\TRABAJO FINAL DE UNIDAD\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.pdb
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.csprojAssemblyReference.cache
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.csproj.CoreCompileInputs.cache
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.pdb
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\TrabajoUnidad-I-gonzales-huilca-panty.dll.config
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\TrabajoUnidad-I-gonzales-huilca-panty.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\TrabajoUnidad-I-gonzales-huilca-panty.pdb
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csc.exe
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csc.exe.config
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csc.rsp
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csi.exe
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csi.exe.config
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csi.rsp
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.AppContext.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Collections.Immutable.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Console.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Globalization.Calendars.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.Compression.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.FileSystem.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Net.Http.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Net.Sockets.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Reflection.Metadata.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.ValueTuple.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.XPath.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\vbc.exe
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\vbc.exe.config
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\vbc.rsp
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\VBCSCompiler.exe
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\VBCSCompiler.exe.config
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\Microsoft.Web.Infrastructure.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Helpers.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Mvc.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Razor.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Deployment.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Razor.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Razor.xml
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.xml
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Deployment.xml
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Razor.xml
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Helpers.xml
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Mvc.xml
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Razor.resources.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Webpages.resources.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Helpers.resources.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Mvc.resources.dll
+D:\Disco local\disco\VIII-Ciclo\Proyecto_unidad1_Web_2\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.csproj.CopyComplete
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\TrabajoUnidad-I-gonzales-huilca-panty.dll.config
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\TrabajoUnidad-I-gonzales-huilca-panty.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\TrabajoUnidad-I-gonzales-huilca-panty.pdb
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Helpers.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Mvc.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Razor.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Deployment.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Razor.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Razor.xml
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.xml
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Deployment.xml
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Razor.xml
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Helpers.xml
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Mvc.xml
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Razor.resources.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Webpages.resources.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Helpers.resources.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Mvc.resources.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.csprojAssemblyReference.cache
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.csproj.CopyComplete
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.pdb
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csc.exe
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csc.exe.config
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csc.rsp
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csi.exe
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csi.exe.config
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csi.rsp
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.AppContext.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Console.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.Compression.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Net.Http.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Net.Sockets.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.ValueTuple.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\vbc.exe
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\vbc.exe.config
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\vbc.rsp
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\VBCSCompiler.exe
+C:\Users\AGONZALES\Desktop\WEBII\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\VBCSCompiler.exe.config
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\TrabajoUnidad-I-gonzales-huilca-panty.dll.config
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\TrabajoUnidad-I-gonzales-huilca-panty.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\TrabajoUnidad-I-gonzales-huilca-panty.pdb
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csc.exe
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csc.exe.config
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csc.rsp
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csi.exe
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csi.exe.config
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csi.rsp
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.AppContext.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Collections.Immutable.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Console.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Globalization.Calendars.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.Compression.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.FileSystem.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Net.Http.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Net.Sockets.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Reflection.Metadata.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.ValueTuple.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.XPath.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\vbc.exe
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\vbc.exe.config
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\vbc.rsp
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\VBCSCompiler.exe
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\VBCSCompiler.exe.config
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\Microsoft.Web.Infrastructure.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Helpers.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Mvc.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Razor.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Deployment.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Razor.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Razor.xml
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.xml
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Deployment.xml
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Razor.xml
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Helpers.xml
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Mvc.xml
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Razor.resources.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Webpages.resources.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Helpers.resources.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Mvc.resources.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.csprojAssemblyReference.cache
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.csproj.CoreCompileInputs.cache
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.csproj.CopyComplete
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.dll
+D:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.pdb
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\TrabajoUnidad-I-gonzales-huilca-panty.dll.config
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\TrabajoUnidad-I-gonzales-huilca-panty.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\TrabajoUnidad-I-gonzales-huilca-panty.pdb
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csc.exe
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csc.exe.config
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csc.rsp
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csi.exe
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csi.exe.config
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\csi.rsp
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.AppContext.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Collections.Immutable.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Console.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Globalization.Calendars.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.Compression.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.FileSystem.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Net.Http.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Net.Sockets.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Reflection.Metadata.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.ValueTuple.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.XPath.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\vbc.exe
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\vbc.exe.config
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\vbc.rsp
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\VBCSCompiler.exe
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\roslyn\VBCSCompiler.exe.config
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\Microsoft.Web.Infrastructure.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Helpers.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Mvc.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Razor.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Deployment.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Razor.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Razor.xml
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.xml
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Deployment.xml
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Webpages.Razor.xml
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Helpers.xml
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\System.Web.Mvc.xml
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Razor.resources.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Webpages.resources.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Webpages.Deployment.resources.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Webpages.Razor.resources.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Helpers.resources.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\bin\es\System.Web.Mvc.resources.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.csprojAssemblyReference.cache
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.csproj.CoreCompileInputs.cache
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.csproj.CopyComplete
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.dll
+E:\Disco local\disco\VIII-Ciclo\Curso-Web2\Unidad-I\trabajo-final-i-unidad-grupo_-gonzales-huillca-panty-master\TrabajoUnidad-I-gonzales-huilca-panty\obj\Debug\TrabajoUnidad-I-gonzales-huilca-panty.pdb

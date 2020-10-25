@@ -1,0 +1,89 @@
+﻿@model  TrabajoUnidad_I_gonzales_huilca_panty.Models.ClsEjercicio5
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+<style type="text/css">
+    div#tablapacila {
+        width: 100px;
+        position: relative;
+        float: left;
+        height: auto;
+    }
+
+    div#tabla_uno {
+        width: 300px;
+        position: relative;
+        float: left;
+        height: auto;
+        margin-right: 10px;
+        margin-left: 2%;
+        margin-top: 6%;
+    }
+
+    div#tabla_centro {
+        width: 300px;
+        position: relative;
+        float: left;
+        height: auto;
+        margin-top: 4%;
+    }
+
+    div#tabla_dos {
+        width: 300px;
+        position: relative;
+        float: left;
+        height: auto;
+    }
+
+    .selected:hover {
+        background-color: #0585C0;
+        color: white;
+    }
+
+    .seleccionada {
+        background-color: #0585C0;
+        color: white;
+    }
+</style>
+<body>
+    <div>
+
+        <div id="tabla_uno">
+            @Html.Partial("_partial3")
+        </div>
+
+
+        <div>
+            <div id="tabla_centro">
+                <h2>Préstamo Bancario</h2>
+                @using (Html.BeginForm("Visualizar", "Ejercicio5", FormMethod.Post))
+                {
+                    <div>
+                        <label>Cantidad Préstamo</label>
+                        <br />
+                        @Html.TextBoxFor(model => model.prestamo, new { @class = "form-control"})
+                        <br />
+                        <label>Tasa de interés</label>
+                        <br />
+                        @Html.TextBoxFor(model => model.TasaInteres , new { @class = "form-control" })
+                        <br />
+                        <label>Plazo Meses</label>
+                        <br />
+                        @Html.TextBoxFor(model => model.CantidadMes, new { @class = "form-control"})
+                        <br /><br />
+                        <input type="submit" class="btn btn-success" style="width:100%"  name="Buscar" />
+                    </div>
+                }
+            </div>
+    </div>
+</body>
+</html>
